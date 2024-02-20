@@ -246,4 +246,4 @@ async def skip(ctx):
         await ctx.send("재생 중인 노래가 없습니다.")
 
 
-bot.run('OTg4MDg0NDI4NjYyMjQzMzQ4.GSSq22.w0WrjksqMU48vPQnicQ2NMK5wnHAmnpu-oQaFk')
+bot.run('봇 토큰')
